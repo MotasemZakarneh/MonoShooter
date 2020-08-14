@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/jg/MonoGame/Content/Textures/Cursor.png","/home/jg/MonoGame/Content/bin/DesktopGL/Textures/Cursor.xnb","TextureProcessor","Texture2DContent",4245,3101,0.1244527
+"/home/jg/MonoGame/Content/Textures/Player.png","/home/jg/MonoGame/Content/bin/DesktopGL/Textures/Player.xnb","TextureProcessor","Texture2DContent",281036,1770901,0.1629263
